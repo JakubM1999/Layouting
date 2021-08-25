@@ -1,14 +1,105 @@
 body {
     background-color:   #bd0c1b;
-    background: radial-gradient(circle, #af0b19, #720710);
+    background: radial-gradient(circle, #bd0a19, #69060e);
+    margin-left: 10%;
+    margin-right:10%;
 }
 
+/* Div container */
+ 
 .container{
     text-align: center;
     padding-top: 5%;
+    color: white;
 }
 
+/* Typography */
 
-.spider-img path{
-   fill: white;
+.one{
+    background: white;
+    box-shadow: 7px 7px #720710;
+    color: #af0b19;
+    width: 400px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 100pt;
+    display: inline-table;
+    text-shadow: 4px 4px #919191;
+}
+
+.two{
+    font-size: 65pt;
+    font-family: 'Lobster', cursive;
+    text-shadow:4px 4px #720710;
+}
+
+.three{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 110pt;
+    margin-top: -3px;
+    text-shadow: 5px 6px #720710;
+    text-decoration:underline;
+    text-underline-offset: 10px;
+
+}
+
+.four-left{
+    font-size: 65pt;
+    position: relative;
+    left: -30px;
+    font-family: 'Lobster', cursive;
+    text-shadow:4px 4px #720710;
+
+}
+
+.four-right{
+    margin-top: -28px;
+    font-size: 65pt;
+    position: relative;
+    left: 60px;
+    font-family: 'Lobster', cursive;
+    text-shadow:4px 4px #720710;
+    padding-bottom:30px;
+
+}
+
+.five{
+    margin-top: 30px;
+    font-size: 130pt;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 5px;
+    text-shadow:6px 6px #720710;
+    text-decoration:overline dotted ;
+    
+}
+
+.six-left{
+    color: white;
+    float: left;
+    margin-bottom: 2%;
+    font-size: 12pt;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow:4px 4px #720710;
+}
+
+.six-right{
+    color: white;
+    float: right;
+    margin-bottom: 2%;
+    font-size: 12pt;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow:4px 4px #720710;
+}
+
+/* Spider-img */
+
+.spider-img {
+    padding-top: 30px;
+    padding-bottom:10%;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    text-align : center;
+    filter: drop-shadow(7px 7px #720710);
 }
