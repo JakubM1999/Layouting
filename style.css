@@ -1,0 +1,14 @@
+body {
+    background-color:   #bd0c1b;
+    background: radial-gradient(circle, #af0b19, #720710);
+}
+
+.container{
+    text-align: center;
+    padding-top: 5%;
+}
+
+
+.spider-img path{
+   fill: white;
+}
