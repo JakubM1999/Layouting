@@ -6,3 +6,5 @@ Spider-man. I hope everything is fine and that I showed everything that I needed
 Also I know that I could use one link for all the fonts but when I figured that out 
 I allready did most of my CSS and it would just complicate things so I pasted 3 diffrend
 links for three diffrend fonts.
+P.s It´s best to open this link through Google Chrome because the "overline dotts" effect over
+"RESPONSIBILITY" dosen´t work on Safari at least don´t know if other browsers have the same problem.
