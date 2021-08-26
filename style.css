@@ -70,7 +70,7 @@ body {
     font-family: 'Anton', sans-serif;
     letter-spacing: 5px;
     text-shadow:6px 6px #720710;
-    -webkit-text-decoration-in-effect: overline dotted ;
+    -webkit-text-decoration: overline dotted ;
     text-decoration: overline dotted ;
     
 }
